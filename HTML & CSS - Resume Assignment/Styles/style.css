@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0; 
+    font-family:sans-serif;
+}
+.cont{
+    background-color: rgb(41, 38, 35);
+}
+#image{
+    height: 653px;
+}
+
+#heading{
+    color: azure; position: absolute; bottom: 50px; left: 110px; background-color: none;
+}
+#para{
+    color: rgb(10, 184, 111); position: absolute; bottom: 10px; left: 175px; font-size: 15px; background-color: none;
+}
+#aboutme{
+    position: relative; left: 550px; bottom: 600px; color: azure; font-size:50px;
+}
+#para2{
+    position: relative; bottom: 590px; left: 550px; color: rgb(10, 184, 111);
+}
+#para3{
+    position: absolute; bottom: 280px; left: 550px; color: rgb(153, 146, 138);
+}
+#hr{
+    position: relative; bottom:420px; left: 550px; margin-right: 580px;
+}
+#headingtwo{
+    position: relative; bottom: 380px; left: 550px; color: azure;
+}
+#desktop{
+    position: relative; bottom: 350px; left: 550px; color: #27965b; font-size: 30px;
+}
+#headingthree{
+    position: relative; bottom: 330px; left: 550px; color: azure;
+}
+#para4{
+    position: relative; bottom: 310px; left: 550px; color: rgb(153, 146, 138);
+}
+#SEO{
+    position: relative; bottom: 350px; left: 850px; color: #27965b; font-size: 30px;
+}
+#headingfour{
+    position: relative; bottom: 411px; left: 885px; color: azure;
+}
+#para5{
+    position: relative; bottom: 392px; left: 885px; color: rgb(153, 146, 138);
+}
+#database{
+     position: relative; bottom: 160px; left: 480px; font-size: 30px; color: #27965b;
+}
+#headingfive{
+    position: relative; bottom: 300px; left: 550px; color: azure;
+}
+#para6{
+    position: relative; bottom: 280px; left: 550px; color: rgb(153, 146, 138);
+}
+#security{
+    position: relative; bottom: 160px; left: 785px; font-size: 30px; color: #27965b;
+} 
+#headingsix{
+    position: relative; bottom: 380px; left: 885px; color: azure;
+}
+#para7{
+    position: relative; bottom: 360px; left: 885px; color: rgb(153, 146, 138);
+}
+#hr2{
+    position: relative; bottom: 300px; left: 550px; margin-right: 580px;
+}
